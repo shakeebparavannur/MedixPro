@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedixProBAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c344d279e482f017d0e9907728b1ccd08b816562")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedixProBAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedixProBAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
