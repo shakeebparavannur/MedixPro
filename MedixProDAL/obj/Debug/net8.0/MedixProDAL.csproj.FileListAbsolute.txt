@@ -1,0 +1,15 @@
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProDAL\bin\Debug\net8.0\MedixProDAL.deps.json
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProDAL\bin\Debug\net8.0\MedixProDAL.runtimeconfig.json
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProDAL\bin\Debug\net8.0\MedixProDAL.dll
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProDAL\bin\Debug\net8.0\MedixProDAL.pdb
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProDAL\obj\Debug\net8.0\MedixProDAL.csproj.AssemblyReference.cache
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProDAL\obj\Debug\net8.0\MedixProDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProDAL\obj\Debug\net8.0\MedixProDAL.AssemblyInfoInputs.cache
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProDAL\obj\Debug\net8.0\MedixProDAL.AssemblyInfo.cs
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProDAL\obj\Debug\net8.0\MedixProDAL.csproj.CoreCompileInputs.cache
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProDAL\obj\Debug\net8.0\MedixProDAL.sourcelink.json
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProDAL\obj\Debug\net8.0\MedixProDAL.dll
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProDAL\obj\Debug\net8.0\refint\MedixProDAL.dll
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProDAL\obj\Debug\net8.0\MedixProDAL.pdb
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProDAL\obj\Debug\net8.0\MedixProDAL.genruntimeconfig.cache
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProDAL\obj\Debug\net8.0\ref\MedixProDAL.dll

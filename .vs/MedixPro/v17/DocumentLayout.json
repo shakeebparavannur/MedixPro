@@ -3,12 +3,88 @@
   "WorkspaceRootPath": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\migrations\\20241202054100_baseentity-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\migrations\\20241202054100_baseentity-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B8D58EE-02E8-40ED-A612-E282B32D0EA7}|MedixProBAL\\MedixProBAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprobal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B8D58EE-02E8-40ED-A612-E282B32D0EA7}|MedixProBAL\\MedixProBAL.csproj|solutionrelative:medixprobal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\entities\\base\\baseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\entities\\base\\baseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302043F5-1940-4405-B814-975EC5859550}|MedixPro\\MedixPro.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302043F5-1940-4405-B814-975EC5859550}|MedixPro\\MedixPro.csproj|solutionrelative:medixpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302043F5-1940-4405-B814-975EC5859550}|MedixPro\\MedixPro.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixpro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{302043F5-1940-4405-B814-975EC5859550}|MedixPro\\MedixPro.csproj|solutionrelative:medixpro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\entities\\base\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\entities\\base\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\entities\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\entities\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\entities\\admit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\entities\\admit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\entities\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\entities\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\entities\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\entities\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\entities\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\entities\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|d:\\projects\\medixpro\\medixproapi\\medixpro\\medixprodal\\migrations\\20241201163407_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A0F435-EB87-483D-B9E4-7B0CAD5EEC22}|MedixProDAL\\MedixProDAL.csproj|solutionrelative:medixprodal\\migrations\\20241201163407_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,28 +103,255 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Class1.cs",
-              "RelativeDocumentMoniker": "MedixProDAL\\Class1.cs",
-              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Class1.cs",
-              "RelativeToolTip": "MedixProDAL\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "20241202054100_BaseEntity-1.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Migrations\\20241202054100_BaseEntity-1.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Migrations\\20241202054100_BaseEntity-1.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Migrations\\20241202054100_BaseEntity-1.cs",
+              "RelativeToolTip": "MedixProDAL\\Migrations\\20241202054100_BaseEntity-1.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:36:32.588Z",
+              "WhenOpened": "2024-12-02T05:41:00.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProBAL\\Class1.cs",
-              "RelativeDocumentMoniker": "MedixProBAL\\Class1.cs",
-              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProBAL\\Class1.cs",
-              "RelativeToolTip": "MedixProBAL\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "BaseEntityConfiguration.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Base\\BaseEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Entities\\Base\\BaseEntityConfiguration.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Base\\BaseEntityConfiguration.cs",
+              "RelativeToolTip": "MedixProDAL\\Entities\\Base\\BaseEntityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:36:02.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T16:59:02.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241201163407_Initial.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Migrations\\20241201163407_Initial.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Migrations\\20241201163407_Initial.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Migrations\\20241201163407_Initial.cs",
+              "RelativeToolTip": "MedixProDAL\\Migrations\\20241201163407_Initial.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:34:07.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixPro\\Program.cs",
+              "RelativeDocumentMoniker": "MedixPro\\Program.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixPro\\Program.cs",
+              "RelativeToolTip": "MedixPro\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:29:40.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\DataContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\DataContext\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\DataContext\\AppDbContext.cs",
+              "RelativeToolTip": "MedixProDAL\\DataContext\\AppDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA5wBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:20:09.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "MedixProDAL\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:49:50.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixPro\\appsettings.json",
+              "RelativeDocumentMoniker": "MedixPro\\appsettings.json",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixPro\\appsettings.json",
+              "RelativeToolTip": "MedixPro\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T11:05:02.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Base\\IEntity.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Entities\\Base\\IEntity.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Base\\IEntity.cs",
+              "RelativeToolTip": "MedixProDAL\\Entities\\Base\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:50:51.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Prescription.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Entities\\Prescription.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Prescription.cs",
+              "RelativeToolTip": "MedixProDAL\\Entities\\Prescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:31:53.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Entities\\Department.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Department.cs",
+              "RelativeToolTip": "MedixProDAL\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:38:26.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Entities\\Role.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Role.cs",
+              "RelativeToolTip": "MedixProDAL\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:33:05.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Entities\\Doctor.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Doctor.cs",
+              "RelativeToolTip": "MedixProDAL\\Entities\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:48:18.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Medicine.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Entities\\Medicine.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Medicine.cs",
+              "RelativeToolTip": "MedixProDAL\\Entities\\Medicine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:34:01.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Entities\\Payment.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Payment.cs",
+              "RelativeToolTip": "MedixProDAL\\Entities\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:33:48.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\CustomerProfile.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Entities\\CustomerProfile.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\CustomerProfile.cs",
+              "RelativeToolTip": "MedixProDAL\\Entities\\CustomerProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:11:38.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Billing.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Entities\\Billing.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Billing.cs",
+              "RelativeToolTip": "MedixProDAL\\Entities\\Billing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:33:35.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Entities\\AuditLog.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "MedixProDAL\\Entities\\AuditLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:39:31.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Entities\\Appointment.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Appointment.cs",
+              "RelativeToolTip": "MedixProDAL\\Entities\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:32:23.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admit.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Admit.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Entities\\Admit.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Admit.cs",
+              "RelativeToolTip": "MedixProDAL\\Entities\\Admit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:38:50.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Entities\\Room.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\Room.cs",
+              "RelativeToolTip": "MedixProDAL\\Entities\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:39:03.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MedixProDAL\\Entities\\User.cs",
+              "ToolTip": "D:\\Projects\\MedixPro\\MedixProAPI\\MedixPro\\MedixProDAL\\Entities\\User.cs",
+              "RelativeToolTip": "MedixProDAL\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:11:22.878Z"
             }
           ]
         }

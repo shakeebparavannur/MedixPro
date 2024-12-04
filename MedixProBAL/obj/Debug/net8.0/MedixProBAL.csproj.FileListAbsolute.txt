@@ -1,0 +1,12 @@
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProBAL\bin\Debug\net8.0\MedixProBAL.deps.json
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProBAL\bin\Debug\net8.0\MedixProBAL.dll
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProBAL\bin\Debug\net8.0\MedixProBAL.pdb
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProBAL\obj\Debug\net8.0\MedixProBAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProBAL\obj\Debug\net8.0\MedixProBAL.AssemblyInfoInputs.cache
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProBAL\obj\Debug\net8.0\MedixProBAL.AssemblyInfo.cs
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProBAL\obj\Debug\net8.0\MedixProBAL.csproj.CoreCompileInputs.cache
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProBAL\obj\Debug\net8.0\MedixProBAL.sourcelink.json
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProBAL\obj\Debug\net8.0\MedixProBAL.dll
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProBAL\obj\Debug\net8.0\refint\MedixProBAL.dll
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProBAL\obj\Debug\net8.0\MedixProBAL.pdb
+D:\Projects\MedixPro\MedixProAPI\MedixPro\MedixProBAL\obj\Debug\net8.0\ref\MedixProBAL.dll

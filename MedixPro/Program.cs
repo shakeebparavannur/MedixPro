@@ -1,4 +1,7 @@
 
+using MedixProDAL.DataContext;
+using Microsoft.EntityFrameworkCore;
+
 namespace MedixPro
 {
     public class Program
@@ -6,6 +9,7 @@ namespace MedixPro
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            var connectionString = builder.Configuration.GetConnectionString("connectionString");
 
             // Add services to the container.
 
@@ -13,7 +17,10 @@ namespace MedixPro
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-
+            builder.Services.AddDbContext<AppDbContext>(options =>
+            {
+                options.UseSqlServer(connectionString);
+            });
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
